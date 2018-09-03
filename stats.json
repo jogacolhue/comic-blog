@@ -1,0 +1,98 @@
+{
+  "assetsByChunkName": {
+    "path---tags-superman": [
+      "path---tags-superman-b01e09f12b44eb0455e9.js",
+      "path---tags-superman-b01e09f12b44eb0455e9.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-9ec9a415d7c7d776d557.js",
+      "component---src-pages-index-js-9ec9a415d7c7d776d557.js.map"
+    ],
+    "component---src-templates-tags-js": [
+      "component---src-templates-tags-js-16b627a10d49eff517c4.js",
+      "component---src-templates-tags-js-16b627a10d49eff517c4.js.map"
+    ],
+    "path---tags": [
+      "path---tags-fbfc8c4f7bb41b0cdc31.js",
+      "path---tags-fbfc8c4f7bb41b0cdc31.js.map"
+    ],
+    "path---": [
+      "path----f4320b53973e36fbe62e.js",
+      "path----f4320b53973e36fbe62e.js.map"
+    ],
+    "path---tags-batman": [
+      "path---tags-batman-7f1954d44fdfa41c9a4d.js",
+      "path---tags-batman-7f1954d44fdfa41c9a4d.js.map"
+    ],
+    "path---tags-wally-west": [
+      "path---tags-wally-west-99c440d8b558cfc86498.js",
+      "path---tags-wally-west-99c440d8b558cfc86498.js.map"
+    ],
+    "path---tags-wonder-woman": [
+      "path---tags-wonder-woman-6bf4be3e8553911ef110.js",
+      "path---tags-wonder-woman-6bf4be3e8553911ef110.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-a81bb1793759b9fe7766.js",
+      "component---src-templates-blog-post-js-a81bb1793759b9fe7766.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-aa3ad887adf2d66117c0.js",
+      "component---src-layouts-index-js-aa3ad887adf2d66117c0.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-fd861cf8dd556726f32d.js",
+      "path---page-2-fd861cf8dd556726f32d.js.map"
+    ],
+    "path---tags-dc": [
+      "path---tags-dc-484c70e216a3938d6f75.js",
+      "path---tags-dc-484c70e216a3938d6f75.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-a07bddd5c4350f4b84cb.js",
+      "commons-a07bddd5c4350f4b84cb.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags-the-flash": [
+      "path---tags-the-flash-3345402e0a18fef6e24f.js",
+      "path---tags-the-flash-3345402e0a18fef6e24f.js.map"
+    ],
+    "component---src-templates-all-tags-js": [
+      "component---src-templates-all-tags-js-bd4d15a92fdbe44c18fa.js",
+      "component---src-templates-all-tags-js-bd4d15a92fdbe44c18fa.js.map"
+    ],
+    "path---dc-rebirth-2": [
+      "path---dc-rebirth-2-960724f6ec28b6e70d01.js",
+      "path---dc-rebirth-2-960724f6ec28b6e70d01.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-cd9b6569e89022d8368e.js",
+      "component---src-pages-page-2-js-cd9b6569e89022d8368e.js.map"
+    ],
+    "app": [
+      "app-650c5d184fbf34b5ee8a.js",
+      "build-js-styles.css",
+      "app-650c5d184fbf34b5ee8a.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---dc-rebirth": [
+      "path---dc-rebirth-5f360f496fe430b3d0c3.js",
+      "path---dc-rebirth-5f360f496fe430b3d0c3.js.map"
+    ]
+  }
+}
