@@ -1,4 +1,5 @@
 {
+  "homepage": "https://jodacolhue.github.io/comic-blog",
   "name": "gatsby-starter-default",
   "description": "Gatsby default starter",
   "version": "1.0.0",
@@ -9,13 +10,15 @@
     "gatsby-plugin-react-helmet": "^2.0.11",
     "gatsby-source-filesystem": "^1.5.39",
     "gatsby-transformer-remark": "^1.7.44",
+    "gh-pages": "^1.2.0",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
     "gatsby"
   ],
   "license": "MIT",
-  "scripts": {
+  "scripts": { 
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write 'src/**/*.js'",
